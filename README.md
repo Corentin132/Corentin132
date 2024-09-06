@@ -6,12 +6,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ I am looking for an apprenticeship.<br>📚 I'm currently learning at Epitech in System, Network, and Security Architect.<br>🎯 Goals: Cybersecurity engineer<br>  </p>
-
 ###
 
 <h2 align="left">I code with</h2>
