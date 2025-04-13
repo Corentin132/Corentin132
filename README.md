@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Corentin and I'm a Software engineer, from France </p>
+<p align="left">My name is Corentin, i'm passionate about dev and security  </p>
 
 ###
 
